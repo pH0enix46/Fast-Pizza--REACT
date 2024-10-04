@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+# robots.txt is used for SEO to guide search engines on how to index a website, “index” means how search engines organize your website for search results.
+
